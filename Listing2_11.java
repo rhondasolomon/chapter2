@@ -18,7 +18,7 @@ public class Listing2_11
 		Scanner scan = new Scanner (System.in);
 		
 		// Prompt the user to enter a character string
-		// and read the input as one character string
+		// and read the input as a single character string
 		
 		System.out.print("Enter a line of text:");
 		message = scan.nextLine();
